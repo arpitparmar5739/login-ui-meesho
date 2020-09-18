@@ -2,6 +2,12 @@
 
 Meesho assignment containing a login and signup screen.
 
+# Steps to run the project
+
+1. `yarn install`
+2. `yarn start`
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
