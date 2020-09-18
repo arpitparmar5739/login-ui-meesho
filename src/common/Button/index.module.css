@@ -1,0 +1,13 @@
+.primaryButton,
+.secondaryButton {
+  background-color: #1ab188;
+  color: white;
+  border: none;
+  outline: none;
+}
+
+.secondaryButton {
+  background-color: #43525a;
+  color: #acaba9;
+  font-size: 100px;
+}
